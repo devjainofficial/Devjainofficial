@@ -1,24 +1,19 @@
 # Dev Jain
 
-.NET + AI Engineer based in Ahmedabad, India. I build enterprise .NET
-systems by day and agentic AI tooling the rest of the time.
+.NET AI Engineer based in Ahmedabad, India. I build enterprise .NET systems by day and agentic AI tooling the rest of the time.
 
-Expirience on multi-tenant platforms in ASP.NET Core, Blazor and AWS, and on a workforce analytics product with
-real-time desktop streaming.
+Experience on multi-tenant platforms in ASP.NET Core, Blazor and AWS, and on a workforce analytics product with real-time desktop streaming.
 
 ## Personal Projects
 
-**ResumeLab** - ATS resume scorer and optimizer that never fabricates
-facts. Every claim traces to something the user stated.
+**ResumeLab** - ATS resume scorer and optimizer that never fabricates facts. 
+Every claim traces to something the user stated. 
 Next.js, FastAPI, Supabase, Gemini · [resumelabai.vercel.app](https://resumelabai.vercel.app)
 
-**DeepDive** - Autonomous research agent that plans multi-step research
-and drives a real browser, with LLM-guided link navigation and report
-delivery over Telegram.
+**DeepDive** - Autonomous research agent that plans multi-step research and drives a real browser, with LLM-guided link navigation and report delivery over Telegram.
 Python, Playwright, Supabase
 
-**Job Search Automation** - Monitors public ATS APIs (Greenhouse, Lever,
-Ashby), parses resumes with LLMs, and pushes matched roles to Telegram.
+**Job Search Automation** - Monitors public ATS APIs (Greenhouse, Lever, Ashby), parses resumes with LLMs, and pushes matched roles to Telegram.
 Parse-once caching keeps API cost near zero.
 Python, FastAPI, Supabase
 
